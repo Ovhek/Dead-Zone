@@ -21,7 +21,8 @@ El Proyecto necesita las siguiente librerías para funcionar:
 ## Proyecto De Unity
 [Proyecto]()
 ## Ejecutable
-[Ejecutable]()
+[Ejecutable Windows](https://drive.google.com/file/d/1WoJR0RIIO06Gv533PgleyyM_TBNKyDEc/view?usp=sharing)
+[Ejecutable Linux](https://drive.google.com/file/d/1BDd4msH3_jdrVB_sfMxb1Ak0nKqeYDP5/view?usp=sharing)
 ## Video Demo
 
 Insert gif or link to demo
